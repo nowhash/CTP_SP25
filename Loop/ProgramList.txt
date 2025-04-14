@@ -1,0 +1,20 @@
+List of loop related problems:
+1. Display 1 - 10
+2. Display 10 - 1
+3. Display even numbers without if else 
+4. Display odd numbers without if else 
+5. Generate the following series: 1 5 9 13 17...
+6. Display even numbers using if else 
+7. Display odd numbers using if else 
+8. Display both even and odd numbers
+9. Print all the numbers in between 1 - 100 (inlcusive) that are divisible by 5
+10. Find sum of 1 - 10
+11. Find sum of n natural numbers 
+12. Sum of even numbers between 1-n (inclusive)
+13. Sum of odd numbers between 1-n (inclusive)
+14. Count how many even numbers are there in between 1-100.
+14. Count how many numbers are divisble by 5 in between 1 - 100.
+15. Generate Multiplication Table.
+16. Compute sum of odd numbers in between x-y (inclusive)
+
+
